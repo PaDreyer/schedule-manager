@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "removeComments": true,
+    "moduleResolution": "node",
+    "declaration" : true,
+    "strict" : true,
+    "resolveJsonModule": true,
+    //"watch" : true,
+    "lib" : [ "ES2015", "DOM"],
+    "esModuleInterop": true,
+    "typeRoots": [
+      "node_modules/@types",
+    ],
+    "types": [
+      "node",
+      "node-schedule",
+    ]
+  },
+  "exclude": [
+    "./node_modules",
+    "./dist"
+  ],
+  "include": [
+    "src/*.ts"
+  ]
+}

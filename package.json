@@ -1,0 +1,28 @@
+{
+  "name": "Scheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://PaDreyer@github.com/PaDreyer/Scheduler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaDreyer/Scheduler/issues"
+  },
+  "homepage": "https://github.com/PaDreyer/Scheduler#readme",
+  "dependencies": {
+    "node-schedule": "^1.3.2"
+  },
+  "devDependencies": {
+    "shortid": "^2.2.15",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  }
+}
