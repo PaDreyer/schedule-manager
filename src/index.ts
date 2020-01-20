@@ -4,3 +4,5 @@ namespace scheduler {
     export const ScheduleManager = Scheduler;
     export type ScheduleManager = Scheduler;
 }
+
+export default scheduler;
