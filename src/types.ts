@@ -1,5 +1,5 @@
 import schedule, { scheduleJob } from "node-schedule";
-import Scheduler from "./scheduler";
+import Scheduler from "./index";
 
 export interface IPoint {
     fieldName : string;

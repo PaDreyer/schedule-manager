@@ -1,6 +1,6 @@
 {
   "name": "schedule-manager",
-  "version": "1.1.8",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "types": "./dist/index.d.ts",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://PaDreyer@github.com/PaDreyer/schedule-manager.git"
   },
-  "keywords": [],
+  "keywords": ["schedule", "manager", "jobmanager", "schedulemanager","scheduling" ],
   "author": "pdreyer",
   "license": "ISC",
   "bugs": {
