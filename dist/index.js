@@ -8,5 +8,5 @@ var scheduler;
 (function (scheduler) {
     scheduler.ScheduleManager = scheduler_1.default;
 })(scheduler || (scheduler = {}));
-module.exports = scheduler;
+module.exports = scheduler_1.default;
 //# sourceMappingURL=index.js.map

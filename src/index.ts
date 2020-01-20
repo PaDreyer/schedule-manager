@@ -5,4 +5,4 @@ namespace scheduler {
     export type ScheduleManager = Scheduler;
 }
 
-module.exports = scheduler;
+module.exports = Scheduler;
