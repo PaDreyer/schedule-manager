@@ -1,8 +1,9 @@
 {
   "name": "schedule-manager",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types" : "dist/index.t.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
