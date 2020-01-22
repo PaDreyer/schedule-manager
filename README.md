@@ -6,10 +6,14 @@ The scheduler can handle multiple jobs for you easaly.
 
 Scheduler
 ```javascript
-var smanager = require('schedule-manager');
+// javascript 
+var smanager = require('schedule-manager').default;
+
+// typescript
+import smanager from 'schedule-manager';
 
 //create a job
-var jobManager = smanager();
+var jobManager = new smanager();
 
 // scheduled example 
 // timings.second = 10 => at 10 second of time
