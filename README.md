@@ -26,6 +26,7 @@ var jobManager = new smanager();
 var timings = smanager.getTimingsObject('static'); // static | scheduled
 
 // example executes every 10 seconds
+// -1 acts like a wildcard
 timings.seconds= 10;
 timings.minutes = -1;
 timings.houres = -1;
