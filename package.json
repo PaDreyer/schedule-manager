@@ -1,6 +1,6 @@
 {
   "name": "schedule-manager",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -34,8 +34,6 @@
     "@types/shortid": "0.0.29",
     "ts-node": "^8.6.2",
     "typescript": "^3.7.5",
-    "ts-loader": "^6.2.1",
-    "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
+    "ts-loader": "^6.2.1"
   }
 }
