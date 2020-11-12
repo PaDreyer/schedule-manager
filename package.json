@@ -26,7 +26,7 @@
   "homepage": "https://github.com/PaDreyer/schedule-manager#readme",
   "dependencies": {
     "node-schedule": "^1.3.2",
-    "shortid": "^2.2.15"
+    "shortid": "^2.2.16"
   },
   "devDependencies": {
     "@types/node": "^13.1.8",
