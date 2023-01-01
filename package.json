@@ -34,6 +34,6 @@
     "@types/shortid": "0.0.29",
     "ts-node": "^8.6.2",
     "typescript": "^3.7.5",
-    "ts-loader": "^6.2.1"
+    "ts-loader": "^9.4.2"
   }
 }
